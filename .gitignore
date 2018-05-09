@@ -99,4 +99,6 @@ ENV/
 
 # mypy
 .mypy_cache/
-.csv
+#data
+/data/
+.DS_Store
